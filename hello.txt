@@ -1,1 +1,11 @@
+<<<<<<< HEAD
 Estou testando se o merge dará certo
+=======
+Olá, meu nome é Andressa.
+
+Sou prof de programação.
+
+Amo gatos e cahorrinhos mimosos!!
+
+I love TDS
+>>>>>>> equipe1
